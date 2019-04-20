@@ -1,21 +1,16 @@
-# Parser
+# DBS Bank Credit Card Transation Parser
 
-**TODO: Add description**
+## Motivation
 
-## Installation
+It's pretty annoying that my local DBS Bank in Singapore doesn't allow downloading of transaction in CSV format. Seriously? They only allow downloads in PDF, so what good is that...
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `parser` to your list of dependencies in `mix.exs`:
+So I figured let's make a parser to convert the data to .csv.
 
-```elixir
-def deps do
-  [
-    {:bank_parser, "~> 0.1.0"}
-  ]
-end
-```
+## How to use
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/parser](https://hexdocs.pm/parser).
+You'll need to have Elixir installed on your machine.
+
+Clone the repo and run `mix deps.get`.
+
+Open your console and run `iex -S mix`. You are now in Elixir console.
 
