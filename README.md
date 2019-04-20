@@ -1,4 +1,4 @@
-# DBS Bank Credit Card Transation Parser
+# DBS & POSB Bank Credit Card Transation Parser
 
 ## Motivation
 
