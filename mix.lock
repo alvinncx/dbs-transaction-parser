@@ -1,0 +1,6 @@
+%{
+  "csv": {:hex, :csv, "2.3.1", "9ce11eff5a74a07baf3787b2b19dd798724d29a9c3a492a41df39f6af686da0e", [:mix], [{:parallel_stream, "~> 1.0.4", [hex: :parallel_stream, repo: "hexpm", optional: false]}], "hexpm"},
+  "expdf": {:hex, :expdf, "0.1.2", "1e12aa5b95541623637c5bb1d0adff8b150933b31cf42b3ef79bf8f4ab93fcb9", [:mix], [], "hexpm"},
+  "parallel_stream": {:hex, :parallel_stream, "1.0.6", "b967be2b23f0f6787fab7ed681b4c45a215a81481fb62b01a5b750fa8f30f76c", [:mix], [], "hexpm"},
+  "pdf2htmlex": {:hex, :pdf2htmlex, "0.2.0", "77c88bfa7ae3202c9d02f02e5efbf8dee88b0836684c65dafc2de19aa9f7a6d4", [:mix], [], "hexpm"},
+}
