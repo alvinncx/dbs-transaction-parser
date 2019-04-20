@@ -10,7 +10,7 @@ by adding `parser` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:parser, "~> 0.1.0"}
+    {:bank_parser, "~> 0.1.0"}
   ]
 end
 ```

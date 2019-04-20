@@ -1,4 +1,4 @@
-defmodule Parser do
+defmodule BankParser do
   @moduledoc """
   
   Parser is a parser for DBS credit card transaction information

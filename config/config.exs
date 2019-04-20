@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure your application as:
 #
-#     config :parser, key: :value
+#     config :bank_parser, key: :value
 #
 # and access this configuration in your application as:
 #
-#     Application.get_env(:parser, :key)
+#     Application.get_env(:bank_parser, :key)
 #
 # You can also configure a third-party app:
 #
